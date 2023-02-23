@@ -1,0 +1,12 @@
+sort1 uses:Bubble sort (ordenamiento por el metodo de burbuja)
+
+How do you know?: Este metodo toma un poco menos de tiempo cuando se ejecuta en textos ordenamos en comparación con el sort3
+
+sort2 uses: Merge sort (Ordenamiento por mezcla)
+
+How do you know?: Porque este es el metodo de ordenamiento mas rapido de todos
+
+sort3 uses: Selection sort (Ordenamiento por seleccion)
+
+How do you know?: Este lleva mucho tiempo incluso cuando se ejecuta en texto ya ordenado en comparacion con el sort1
+
